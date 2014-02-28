@@ -553,7 +553,7 @@ function procCmd(c) {
 					clientMessage("[SPC] [HELP] Type /launch <MOBNAME|tnt> <rapid> to launch a mob or tnt in the direction you are facing!");
 					break;
 				} case 'kill': {
-					clientMessage("[SPC] [HELP] Type /kill to kill yourself");
+					clientMessage("[SPC] [Suicide] Type /kill to kill yourself");
 					break;
 				} case 'mc': {
 					clientMessage("[SPC] [HELP] Type /mc <on|off> to activate or deactivate the Magic Carpet.\nExample: /mc on");
